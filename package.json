@@ -1,0 +1,22 @@
+{
+  "name": "module_9.node",
+  "version": "1.0.0",
+  "description": "NPM test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiipoliakov/module_9.node.js.git"
+  },
+  "author": "Sergii Poliakov <sergiipoliakov88@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiipoliakov/module_9.node.js/issues"
+  },
+  "homepage": "https://github.com/sergiipoliakov/module_9.node.js#readme",
+  "dependencies": {
+    "joi": "^17.2.1"
+  }
+}
